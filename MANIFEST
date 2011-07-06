@@ -6,4 +6,5 @@ lib/TomTom/WEBFLEET/Connect/Response.pm
 Makefile.PL
 MANIFEST
 README
+Changes
 META.yml                                 Module meta-data (added by MakeMaker)
